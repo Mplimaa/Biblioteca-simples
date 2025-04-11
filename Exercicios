@@ -1,0 +1,32 @@
+### Lista de exercícios.
+
+ ## Exercício 1
+Liste todos os livros cadastrados na biblioteca.
+
+## Exercício 2
+Liste o nome dos usuários e os títulos dos livros que eles emprestaram.
+
+##  Exercício 3
+Quais usuários ainda não devolveram seus livros?
+
+##  Exercício 4
+Liste todos os empréstimos realizados em abril de 2025.
+
+##  Exercício 5
+Quantos livros foram emprestados no total?
+
+##  Exercício 6
+Liste os livros que ainda não foram devolvidos, com o nome do usuário correspondente.
+
+##  Exercício 7
+Liste os nomes dos livros e quantas vezes cada um foi emprestado.
+
+##  Exercício 8
+Insira um novo usuário chamado "Carlos Lima", com e-mail "carlos@email.com" e data de cadastro atual.
+
+##  Exercício 9
+Atualize a data de devolução do empréstimo com ID 2 para '2025-04-20'.
+
+##  Exercício 10
+Exclua um livro com o ID 3 da tabela de livros.
+
